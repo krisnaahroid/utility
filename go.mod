@@ -1,3 +1,3 @@
-module github.com/krisnaahroid/go-utility
+module github.com/krisnaahroid/utility
 
 go 1.12
